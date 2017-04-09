@@ -1,0 +1,6 @@
+katiapr
+Katia Prigon 322088154
+EX3 – HTTP server
+threadpool.c - based on threadpool.h creates threads and despatch them to do works using pointer to work's func
+README
+this program using POSIX threads and must be compiled with flag -lpthread

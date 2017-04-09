@@ -1,0 +1,6 @@
+katiapr
+Katia Prigon 322088154
+EX3 – HTTP server
+server.c - immplements the server side of protocol HTTP,supporter only HTTP/1.0 ver and 'GET' method
+threadpool.c - ex3 first part
+to compile needs the threadpool.c file and a flag -lpthread

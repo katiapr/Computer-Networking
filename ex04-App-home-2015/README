@@ -1,0 +1,7 @@
+katiapr
+Katia Prigon 322088154
+EX4 – UDP sockets with Select
+server.c - immplements the server with multi clients by protocol UDP
+slist.h - from ex1
+slist.c - immplements slist.h from ex1
+compile this ex4 by compiling slist.c and server.c together
